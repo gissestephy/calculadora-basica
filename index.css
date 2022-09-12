@@ -79,5 +79,10 @@ button:focus{
 .author{
     margin-top: 650px;
     font-size:15px;
-    font-family:'Times New Roman', Times, serif ;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h2{
+    color: #000;
+    font-size: 15px;
 }
